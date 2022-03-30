@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [前言](readme.md)
+* [前言](pre.md)
 * [第一章](part1/README.md)
     * [第一节](part1/1.md)
     * [第二节](part1/2.md)
